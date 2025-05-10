@@ -6,6 +6,11 @@ An interactive dashboard application for analyzing video game sales data across 
 
 This application provides comprehensive analysis and visualization of video game sales data, allowing users to explore trends and patterns across various dimensions of the gaming industry. The dashboard offers multiple analysis views and an interactive chatbot feature to query the data.
 
+
+
+https://github.com/user-attachments/assets/f37aaed1-43f4-41fc-8ef0-fb82a43cc62f
+
+
 ## Features
 
 
